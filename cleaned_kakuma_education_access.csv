@@ -1,0 +1,1001 @@
+,Student_ID,Gender,Age,School,Class_Level,Attendance_Rate_%,Dropout_Status,Dropout_Reason
+0,ST0001,Male,11.0,,4.0,68.0,No,Financial Issues
+1,ST0002,Female,6.0,Kakuma Primary,2.0,91.0,No,Early Marriage
+2,ST0003,Male,14.0,,8.0,50.0,Yes,Family Responsibility
+3,ST0004,Male,6.0,,3.0,78.0,No,Relocation
+4,ST0005,Male,10.0,,4.0,94.0,No,Health Issues
+5,ST0006,,9.0,Kakuma Primary,7.0,98.0,,Lack of Interest
+6,ST0007,Male,18.0,Kakuma Primary,10.0,84.0,Yes,Lack of Interest
+7,ST0008,Male,17.0,Kalobeyei Secondary,9.0,89.0,No,Family Responsibility
+8,ST0009,Male,18.0,Kakuma Primary,2.0,63.0,No,
+9,ST0010,Female,18.0,Hope Academy,3.0,84.0,No,Lack of Interest
+10,ST0011,Male,19.0,Kakuma Primary,4.0,97.0,No,Financial Issues
+11,ST0012,Male,8.0,Kalobeyei Secondary,,94.0,No,Relocation
+12,ST0013,Male,18.0,Unity School,1.0,69.0,No,Relocation
+13,ST0014,Male,11.0,,7.0,98.0,No,Financial Issues
+14,ST0015,Female,,Kalobeyei Secondary,2.0,62.0,No,Financial Issues
+15,ST0016,Male,8.0,Unity School,5.0,,,Lack of Interest
+16,ST0017,Female,10.0,Kalobeyei Secondary,1.0,98.0,,Early Marriage
+17,ST0018,Female,14.0,Kalobeyei Secondary,3.0,95.0,Yes,Health Issues
+18,ST0019,Female,7.0,Kakuma Primary,2.0,98.0,No,Health Issues
+19,ST0020,Male,15.0,Kakuma Primary,1.0,57.0,,Lack of Interest
+20,ST0021,Female,13.0,Unity School,7.0,92.0,No,Health Issues
+21,ST0022,Male,19.0,Kakuma Primary,,69.0,No,Financial Issues
+22,ST0023,Female,,Kakuma Primary,1.0,82.0,No,Relocation
+23,ST0024,Female,16.0,Kalobeyei Secondary,6.0,75.0,No,Health Issues
+24,ST0025,Female,18.0,Hope Academy,5.0,88.0,Yes,Lack of Interest
+25,ST0026,Female,10.0,Kakuma Primary,3.0,70.0,No,Early Marriage
+26,ST0027,Female,12.0,,7.0,98.0,No,Lack of Interest
+27,ST0028,,13.0,,11.0,91.0,No,Family Responsibility
+28,ST0029,Female,6.0,Kakuma Primary,,92.0,Yes,Lack of Interest
+29,ST0030,Female,11.0,Unity School,9.0,90.0,No,Financial Issues
+30,ST0031,Male,6.0,Unity School,9.0,58.0,No,
+31,ST0032,Male,7.0,,9.0,73.0,No,Relocation
+32,ST0033,Female,6.0,Hope Academy,2.0,86.0,No,Health Issues
+33,ST0034,Female,,Kalobeyei Secondary,3.0,,No,Financial Issues
+34,ST0035,Female,10.0,Kakuma Primary,7.0,90.0,No,Family Responsibility
+35,ST0036,,15.0,,,66.0,No,Financial Issues
+36,ST0037,Female,14.0,Kakuma Primary,2.0,73.0,No,Lack of Interest
+37,ST0038,Male,11.0,Hope Academy,3.0,70.0,Yes,Financial Issues
+38,ST0039,Male,16.0,Unity School,,100.0,No,
+39,ST0040,Male,16.0,Kalobeyei Secondary,6.0,88.0,No,Family Responsibility
+40,ST0041,Male,6.0,Hope Academy,7.0,90.0,No,
+41,ST0042,Male,18.0,Unity School,9.0,88.0,Yes,Early Marriage
+42,ST0043,Female,6.0,,1.0,62.0,No,Early Marriage
+43,ST0044,Female,7.0,Kalobeyei Secondary,11.0,60.0,No,Relocation
+44,ST0045,Female,14.0,Unity School,,95.0,Yes,Health Issues
+45,ST0046,Female,8.0,Hope Academy,8.0,68.0,,Financial Issues
+46,ST0047,Female,6.0,Kalobeyei Secondary,3.0,60.0,Yes,Relocation
+47,ST0048,Male,,,4.0,62.0,No,Family Responsibility
+48,ST0049,Female,12.0,Kalobeyei Secondary,10.0,95.0,Yes,
+49,ST0050,Female,,,,,,Financial Issues
+50,ST0051,Male,17.0,,10.0,50.0,No,Family Responsibility
+51,ST0052,Female,6.0,Unity School,7.0,89.0,No,Health Issues
+52,ST0053,Male,10.0,Unity School,4.0,93.0,Yes,Family Responsibility
+53,ST0054,Female,,Hope Academy,8.0,68.0,Yes,Financial Issues
+54,ST0055,Male,11.0,Unity School,5.0,61.0,Yes,Health Issues
+55,ST0056,Female,8.0,Unity School,1.0,57.0,No,Family Responsibility
+56,ST0057,Female,10.0,Kakuma Primary,4.0,57.0,No,Health Issues
+57,ST0058,Male,12.0,Hope Academy,3.0,,Yes,Financial Issues
+58,ST0059,Male,10.0,Kalobeyei Secondary,9.0,61.0,Yes,
+59,ST0060,,,Kakuma Primary,8.0,97.0,No,Health Issues
+60,ST0061,Male,,Hope Academy,1.0,82.0,No,Lack of Interest
+61,ST0062,,15.0,Kakuma Primary,11.0,94.0,No,Relocation
+62,ST0063,Male,,Kalobeyei Secondary,6.0,75.0,No,Family Responsibility
+63,ST0064,Male,8.0,Kalobeyei Secondary,9.0,88.0,No,Family Responsibility
+64,ST0065,Male,6.0,Hope Academy,7.0,77.0,No,Lack of Interest
+65,ST0066,Female,10.0,Kalobeyei Secondary,4.0,54.0,No,Lack of Interest
+66,ST0067,,19.0,Kakuma Primary,1.0,57.0,No,Lack of Interest
+67,ST0068,Male,14.0,Kalobeyei Secondary,2.0,74.0,No,Early Marriage
+68,ST0069,Female,19.0,Kakuma Primary,5.0,76.0,Yes,Early Marriage
+69,ST0070,Female,6.0,Kakuma Primary,11.0,95.0,,Health Issues
+70,ST0071,Female,8.0,Kalobeyei Secondary,5.0,72.0,Yes,Early Marriage
+71,ST0072,Female,18.0,,8.0,79.0,No,Financial Issues
+72,ST0073,Male,18.0,Unity School,6.0,94.0,No,Health Issues
+73,ST0074,Female,9.0,Kalobeyei Secondary,8.0,96.0,No,Family Responsibility
+74,ST0075,Male,19.0,Kakuma Primary,2.0,72.0,Yes,
+75,ST0076,Female,6.0,Kakuma Primary,3.0,98.0,No,
+76,ST0077,Female,6.0,Kalobeyei Secondary,6.0,96.0,No,Family Responsibility
+77,ST0078,Female,13.0,Hope Academy,10.0,69.0,,Family Responsibility
+78,ST0079,Male,7.0,Hope Academy,3.0,67.0,,Health Issues
+79,ST0080,Female,17.0,Kakuma Primary,6.0,67.0,No,Lack of Interest
+80,ST0081,Male,13.0,Kakuma Primary,,51.0,No,Lack of Interest
+81,ST0082,Female,12.0,Hope Academy,2.0,53.0,No,Financial Issues
+82,ST0083,Male,15.0,Unity School,7.0,79.0,No,Lack of Interest
+83,ST0084,Female,15.0,Kalobeyei Secondary,2.0,82.0,Yes,Family Responsibility
+84,ST0085,Male,7.0,Kakuma Primary,6.0,85.0,No,
+85,ST0086,Male,,Kakuma Primary,1.0,67.0,No,Early Marriage
+86,ST0087,Female,11.0,Hope Academy,,86.0,No,Lack of Interest
+87,ST0088,Male,8.0,Kalobeyei Secondary,2.0,68.0,No,Family Responsibility
+88,ST0089,Female,,,7.0,96.0,No,Health Issues
+89,ST0090,Female,7.0,Kalobeyei Secondary,4.0,77.0,No,Financial Issues
+90,ST0091,Female,17.0,Kalobeyei Secondary,8.0,89.0,No,Relocation
+91,ST0092,Female,6.0,Kalobeyei Secondary,6.0,69.0,No,
+92,ST0093,Female,11.0,Kakuma Primary,10.0,98.0,No,Family Responsibility
+93,ST0094,Female,17.0,Unity School,4.0,,No,
+94,ST0095,Female,10.0,Hope Academy,5.0,61.0,No,Relocation
+95,ST0096,Female,19.0,Unity School,9.0,100.0,Yes,Early Marriage
+96,ST0097,Female,19.0,Hope Academy,7.0,64.0,No,Relocation
+97,ST0098,Female,16.0,Kalobeyei Secondary,10.0,,No,
+98,ST0099,Female,14.0,Kakuma Primary,9.0,,No,Family Responsibility
+99,ST0100,Male,6.0,Unity School,7.0,51.0,No,
+100,ST0101,Male,12.0,Kakuma Primary,1.0,78.0,,Lack of Interest
+101,ST0102,,10.0,Hope Academy,8.0,90.0,No,Lack of Interest
+102,ST0103,Female,10.0,Kakuma Primary,4.0,59.0,Yes,Lack of Interest
+103,ST0104,Female,19.0,Kakuma Primary,3.0,51.0,,Health Issues
+104,ST0105,Female,7.0,Unity School,7.0,100.0,Yes,Relocation
+105,ST0106,Female,16.0,,3.0,60.0,No,Relocation
+106,ST0107,Female,8.0,Kakuma Primary,8.0,62.0,Yes,Early Marriage
+107,ST0108,Female,12.0,Kalobeyei Secondary,,59.0,No,Health Issues
+108,ST0109,Female,11.0,Hope Academy,5.0,63.0,No,Lack of Interest
+109,ST0110,Male,17.0,Kakuma Primary,4.0,67.0,No,Financial Issues
+110,ST0111,Female,7.0,Unity School,8.0,100.0,No,Early Marriage
+111,ST0112,Male,11.0,Hope Academy,8.0,58.0,No,Financial Issues
+112,ST0113,Female,,Hope Academy,1.0,88.0,No,Relocation
+113,ST0114,Female,7.0,Unity School,9.0,77.0,No,Early Marriage
+114,ST0115,Male,7.0,Kakuma Primary,5.0,52.0,Yes,Early Marriage
+115,ST0116,Female,19.0,Kakuma Primary,4.0,69.0,No,Family Responsibility
+116,ST0117,Male,16.0,,,55.0,No,Relocation
+117,ST0118,Female,8.0,Kakuma Primary,6.0,76.0,Yes,Relocation
+118,ST0119,Female,7.0,Kalobeyei Secondary,2.0,51.0,No,Health Issues
+119,ST0120,Male,9.0,,8.0,78.0,No,Early Marriage
+120,ST0121,Female,,Kalobeyei Secondary,7.0,87.0,No,Relocation
+121,ST0122,Male,11.0,Kakuma Primary,1.0,52.0,No,Early Marriage
+122,ST0123,Female,6.0,Hope Academy,5.0,65.0,No,
+123,ST0124,Male,,Unity School,,79.0,,Health Issues
+124,ST0125,Male,17.0,Kakuma Primary,4.0,89.0,No,Family Responsibility
+125,ST0126,Female,19.0,,2.0,51.0,No,Early Marriage
+126,ST0127,Female,12.0,Hope Academy,,66.0,No,Relocation
+127,ST0128,Male,15.0,Hope Academy,1.0,90.0,No,Relocation
+128,ST0129,Female,8.0,Kalobeyei Secondary,,61.0,No,
+129,ST0130,Female,6.0,Unity School,2.0,84.0,No,Early Marriage
+130,ST0131,Female,10.0,Unity School,2.0,92.0,No,Early Marriage
+131,ST0132,Male,18.0,,9.0,50.0,Yes,Lack of Interest
+132,ST0133,,9.0,Kalobeyei Secondary,5.0,,No,Relocation
+133,ST0134,Male,15.0,Unity School,2.0,64.0,No,Health Issues
+134,ST0135,Male,13.0,Hope Academy,11.0,75.0,Yes,Relocation
+135,ST0136,Male,6.0,Kakuma Primary,9.0,86.0,No,Lack of Interest
+136,ST0137,Male,15.0,Unity School,9.0,70.0,No,Early Marriage
+137,ST0138,Male,6.0,Kalobeyei Secondary,1.0,98.0,No,Family Responsibility
+138,ST0139,Male,,Kalobeyei Secondary,11.0,80.0,Yes,Early Marriage
+139,ST0140,Male,9.0,Kalobeyei Secondary,3.0,74.0,No,Early Marriage
+140,ST0141,,13.0,Kakuma Primary,4.0,72.0,No,Lack of Interest
+141,ST0142,,,,7.0,73.0,No,
+142,ST0143,Female,7.0,Unity School,10.0,87.0,Yes,Early Marriage
+143,ST0144,Female,11.0,Kakuma Primary,4.0,77.0,No,Relocation
+144,ST0145,Female,10.0,Unity School,2.0,70.0,No,Financial Issues
+145,ST0146,Male,7.0,Kakuma Primary,7.0,92.0,No,Health Issues
+146,ST0147,Male,18.0,Kakuma Primary,6.0,67.0,,Relocation
+147,ST0148,Male,,,3.0,85.0,No,Family Responsibility
+148,ST0149,Male,16.0,Kalobeyei Secondary,6.0,,No,Health Issues
+149,ST0150,Female,16.0,,11.0,94.0,Yes,Family Responsibility
+150,ST0151,Male,16.0,Kakuma Primary,6.0,58.0,No,Early Marriage
+151,ST0152,Male,8.0,Unity School,5.0,87.0,Yes,Health Issues
+152,ST0153,,14.0,Kalobeyei Secondary,4.0,79.0,No,
+153,ST0154,Male,12.0,Kakuma Primary,10.0,93.0,Yes,Health Issues
+154,ST0155,Male,12.0,Hope Academy,,83.0,No,Early Marriage
+155,ST0156,,16.0,Kalobeyei Secondary,10.0,81.0,No,Lack of Interest
+156,ST0157,Male,11.0,Hope Academy,6.0,52.0,No,Family Responsibility
+157,ST0158,Female,13.0,Unity School,2.0,,Yes,Early Marriage
+158,ST0159,,9.0,Unity School,3.0,77.0,No,Lack of Interest
+159,ST0160,,,Kalobeyei Secondary,8.0,93.0,No,Health Issues
+160,ST0161,Male,9.0,Unity School,10.0,64.0,No,Health Issues
+161,ST0162,Male,13.0,Hope Academy,6.0,,No,Early Marriage
+162,ST0163,Female,14.0,Kakuma Primary,3.0,72.0,,
+163,ST0164,Female,8.0,Kakuma Primary,7.0,89.0,No,Health Issues
+164,ST0165,Female,8.0,Kakuma Primary,4.0,60.0,No,Relocation
+165,ST0166,Male,16.0,Kalobeyei Secondary,9.0,97.0,No,Relocation
+166,ST0167,Female,18.0,Unity School,5.0,81.0,No,Relocation
+167,ST0168,Male,7.0,,3.0,85.0,No,Financial Issues
+168,ST0169,Male,18.0,Unity School,2.0,82.0,,Lack of Interest
+169,ST0170,Female,15.0,Unity School,11.0,73.0,Yes,Lack of Interest
+170,ST0171,Female,8.0,Unity School,,88.0,Yes,Health Issues
+171,ST0172,Male,8.0,Kakuma Primary,3.0,83.0,No,Health Issues
+172,ST0173,Male,10.0,Hope Academy,2.0,77.0,No,Relocation
+173,ST0174,Female,10.0,Hope Academy,,86.0,No,Financial Issues
+174,ST0175,Female,7.0,Unity School,2.0,56.0,No,Relocation
+175,ST0176,Female,17.0,Kakuma Primary,10.0,53.0,Yes,Financial Issues
+176,ST0177,Male,15.0,Kakuma Primary,9.0,86.0,No,
+177,ST0178,,18.0,Hope Academy,2.0,50.0,No,Family Responsibility
+178,ST0179,Male,11.0,Kakuma Primary,9.0,50.0,No,Family Responsibility
+179,ST0180,Male,10.0,Kakuma Primary,6.0,96.0,Yes,Early Marriage
+180,ST0181,Male,11.0,Kakuma Primary,,69.0,No,
+181,ST0182,Male,6.0,Kalobeyei Secondary,4.0,68.0,No,Health Issues
+182,ST0183,Female,10.0,Unity School,1.0,78.0,No,Lack of Interest
+183,ST0184,Male,14.0,Hope Academy,6.0,59.0,No,Early Marriage
+184,ST0185,Male,17.0,Hope Academy,4.0,67.0,No,
+185,ST0186,,15.0,Kalobeyei Secondary,3.0,77.0,No,Family Responsibility
+186,ST0187,Female,19.0,Unity School,3.0,,No,Relocation
+187,ST0188,,7.0,Hope Academy,9.0,92.0,,Early Marriage
+188,ST0189,Male,6.0,Kakuma Primary,6.0,96.0,No,
+189,ST0190,Female,19.0,Hope Academy,9.0,,No,Family Responsibility
+190,ST0191,Male,15.0,Kakuma Primary,5.0,76.0,No,Early Marriage
+191,ST0192,Male,,Kalobeyei Secondary,2.0,60.0,No,Family Responsibility
+192,ST0193,Male,16.0,Kakuma Primary,8.0,98.0,,Financial Issues
+193,ST0194,,14.0,,5.0,98.0,No,Family Responsibility
+194,ST0195,,,Hope Academy,2.0,87.0,No,Relocation
+195,ST0196,Female,14.0,Hope Academy,4.0,,Yes,Lack of Interest
+196,ST0197,Female,14.0,Kalobeyei Secondary,,57.0,No,
+197,ST0198,Female,11.0,Kalobeyei Secondary,4.0,83.0,No,Health Issues
+198,ST0199,Male,13.0,Unity School,4.0,97.0,No,Lack of Interest
+199,ST0200,Male,19.0,Hope Academy,,61.0,No,Financial Issues
+200,ST0201,,16.0,Kakuma Primary,6.0,87.0,No,Early Marriage
+201,ST0202,,18.0,Kalobeyei Secondary,11.0,50.0,No,Early Marriage
+202,ST0203,Male,6.0,,2.0,80.0,No,Lack of Interest
+203,ST0204,Male,15.0,Hope Academy,7.0,53.0,No,Early Marriage
+204,ST0205,Female,9.0,Kalobeyei Secondary,3.0,98.0,No,Family Responsibility
+205,ST0206,Male,6.0,Unity School,3.0,94.0,No,Lack of Interest
+206,ST0207,Female,13.0,Kalobeyei Secondary,5.0,99.0,No,Relocation
+207,ST0208,,6.0,Kalobeyei Secondary,3.0,54.0,No,Family Responsibility
+208,ST0209,Female,8.0,Kakuma Primary,2.0,79.0,,Family Responsibility
+209,ST0210,Male,18.0,Kakuma Primary,10.0,73.0,Yes,Family Responsibility
+210,ST0211,Male,9.0,Unity School,9.0,52.0,No,Relocation
+211,ST0212,Male,13.0,Hope Academy,2.0,60.0,Yes,
+212,ST0213,Male,,Kalobeyei Secondary,11.0,94.0,No,Health Issues
+213,ST0214,Male,19.0,Unity School,2.0,53.0,Yes,Early Marriage
+214,ST0215,Male,15.0,Kakuma Primary,8.0,,Yes,Lack of Interest
+215,ST0216,Male,17.0,Kalobeyei Secondary,,76.0,No,Financial Issues
+216,ST0217,Female,12.0,Hope Academy,7.0,95.0,No,Lack of Interest
+217,ST0218,Male,19.0,Kakuma Primary,3.0,92.0,No,Early Marriage
+218,ST0219,Female,13.0,Kakuma Primary,9.0,76.0,No,Relocation
+219,ST0220,Male,7.0,Kakuma Primary,,91.0,No,Family Responsibility
+220,ST0221,Male,18.0,Unity School,5.0,100.0,No,Family Responsibility
+221,ST0222,Male,,Hope Academy,9.0,99.0,No,Relocation
+222,ST0223,Female,19.0,Kalobeyei Secondary,3.0,55.0,No,
+223,ST0224,Female,16.0,Unity School,7.0,64.0,No,Financial Issues
+224,ST0225,Female,13.0,Unity School,1.0,79.0,No,Lack of Interest
+225,ST0226,Female,8.0,Unity School,,91.0,No,Relocation
+226,ST0227,Male,12.0,Kakuma Primary,4.0,86.0,No,Financial Issues
+227,ST0228,Female,8.0,Hope Academy,7.0,86.0,No,Relocation
+228,ST0229,Male,12.0,Unity School,8.0,91.0,No,Early Marriage
+229,ST0230,Male,19.0,Kalobeyei Secondary,1.0,86.0,No,
+230,ST0231,,16.0,Hope Academy,5.0,84.0,No,Family Responsibility
+231,ST0232,Female,17.0,Kalobeyei Secondary,,72.0,No,Family Responsibility
+232,ST0233,Female,18.0,Hope Academy,4.0,55.0,No,Relocation
+233,ST0234,Female,7.0,Kalobeyei Secondary,4.0,53.0,No,Relocation
+234,ST0235,,15.0,Kakuma Primary,4.0,67.0,No,Lack of Interest
+235,ST0236,Female,11.0,Unity School,6.0,,No,Family Responsibility
+236,ST0237,Female,8.0,Kalobeyei Secondary,7.0,98.0,No,Lack of Interest
+237,ST0238,Female,8.0,Hope Academy,,78.0,No,
+238,ST0239,Male,14.0,Unity School,5.0,62.0,No,Lack of Interest
+239,ST0240,Female,12.0,Unity School,4.0,,No,Lack of Interest
+240,ST0241,Female,10.0,,3.0,66.0,No,Early Marriage
+241,ST0242,Male,17.0,Kalobeyei Secondary,7.0,94.0,Yes,Lack of Interest
+242,ST0243,Female,15.0,Kakuma Primary,11.0,,No,Relocation
+243,ST0244,,12.0,Kakuma Primary,6.0,97.0,No,Lack of Interest
+244,ST0245,,14.0,Kalobeyei Secondary,7.0,71.0,No,Family Responsibility
+245,ST0246,Female,6.0,Unity School,5.0,53.0,No,Lack of Interest
+246,ST0247,Male,12.0,Unity School,6.0,54.0,No,Financial Issues
+247,ST0248,Male,11.0,Unity School,,86.0,,Health Issues
+248,ST0249,Male,15.0,Unity School,7.0,90.0,No,Family Responsibility
+249,ST0250,Male,,Kalobeyei Secondary,2.0,98.0,Yes,Financial Issues
+250,ST0251,Female,17.0,Unity School,11.0,62.0,No,Family Responsibility
+251,ST0252,Male,14.0,Hope Academy,5.0,,No,Relocation
+252,ST0253,Female,,Unity School,6.0,94.0,No,Health Issues
+253,ST0254,Male,18.0,Kakuma Primary,6.0,71.0,No,Health Issues
+254,ST0255,Male,9.0,Unity School,5.0,72.0,No,Relocation
+255,ST0256,Male,,Kalobeyei Secondary,,,No,Health Issues
+256,ST0257,Male,9.0,Kakuma Primary,7.0,52.0,No,Relocation
+257,ST0258,Female,15.0,Kalobeyei Secondary,,91.0,No,Financial Issues
+258,ST0259,,8.0,Kalobeyei Secondary,,83.0,No,
+259,ST0260,Male,,Kakuma Primary,7.0,81.0,Yes,Family Responsibility
+260,ST0261,Male,18.0,Kalobeyei Secondary,,94.0,,Relocation
+261,ST0262,Female,7.0,Kalobeyei Secondary,1.0,100.0,No,Family Responsibility
+262,ST0263,Male,9.0,,,,No,Financial Issues
+263,ST0264,,11.0,Hope Academy,10.0,70.0,Yes,Early Marriage
+264,ST0265,Male,7.0,Kalobeyei Secondary,2.0,95.0,No,Financial Issues
+265,ST0266,Female,13.0,Kalobeyei Secondary,5.0,93.0,No,Health Issues
+266,ST0267,Female,13.0,Kalobeyei Secondary,5.0,70.0,,Family Responsibility
+267,ST0268,Female,6.0,Unity School,2.0,93.0,No,Early Marriage
+268,ST0269,Male,17.0,Hope Academy,5.0,60.0,,Health Issues
+269,ST0270,Male,8.0,Kakuma Primary,4.0,88.0,No,Early Marriage
+270,ST0271,Female,15.0,Unity School,1.0,53.0,No,
+271,ST0272,Female,14.0,Unity School,3.0,,No,Financial Issues
+272,ST0273,Female,10.0,Hope Academy,1.0,50.0,No,Relocation
+273,ST0274,Female,11.0,Hope Academy,11.0,77.0,No,Family Responsibility
+274,ST0275,Male,9.0,,5.0,73.0,No,Lack of Interest
+275,ST0276,Female,15.0,Kakuma Primary,4.0,,,Lack of Interest
+276,ST0277,,7.0,Unity School,7.0,62.0,No,Financial Issues
+277,ST0278,Female,16.0,Hope Academy,5.0,96.0,No,
+278,ST0279,Male,13.0,Kakuma Primary,10.0,83.0,No,Family Responsibility
+279,ST0280,Female,,Hope Academy,4.0,60.0,No,Financial Issues
+280,ST0281,Female,18.0,Kakuma Primary,2.0,85.0,No,
+281,ST0282,Female,,Kalobeyei Secondary,,100.0,Yes,Relocation
+282,ST0283,Female,10.0,Hope Academy,2.0,,No,Financial Issues
+283,ST0284,Male,14.0,Hope Academy,,84.0,,Relocation
+284,ST0285,Female,6.0,Unity School,3.0,67.0,,Family Responsibility
+285,ST0286,Male,10.0,Hope Academy,9.0,89.0,No,Financial Issues
+286,ST0287,Male,11.0,Hope Academy,4.0,71.0,,Family Responsibility
+287,ST0288,Male,10.0,Kalobeyei Secondary,6.0,73.0,No,Financial Issues
+288,ST0289,Male,11.0,Hope Academy,10.0,68.0,,Family Responsibility
+289,ST0290,Female,11.0,Kalobeyei Secondary,5.0,,No,Relocation
+290,ST0291,Male,12.0,Kalobeyei Secondary,10.0,88.0,,Relocation
+291,ST0292,Male,9.0,Kalobeyei Secondary,1.0,70.0,No,Family Responsibility
+292,ST0293,Male,19.0,Kalobeyei Secondary,9.0,57.0,No,Financial Issues
+293,ST0294,Female,,,1.0,77.0,,Lack of Interest
+294,ST0295,Female,,Unity School,8.0,54.0,No,Relocation
+295,ST0296,Female,19.0,Kakuma Primary,9.0,66.0,No,Relocation
+296,ST0297,Female,19.0,Hope Academy,9.0,86.0,No,Health Issues
+297,ST0298,Male,13.0,Kakuma Primary,1.0,85.0,No,Lack of Interest
+298,ST0299,Male,12.0,Kakuma Primary,2.0,68.0,No,Family Responsibility
+299,ST0300,Female,14.0,Hope Academy,1.0,76.0,No,Financial Issues
+300,ST0301,Male,12.0,Hope Academy,10.0,83.0,No,
+301,ST0302,Male,8.0,Hope Academy,2.0,60.0,No,Family Responsibility
+302,ST0303,,,Kakuma Primary,10.0,94.0,Yes,Early Marriage
+303,ST0304,Female,,Kakuma Primary,8.0,,No,Relocation
+304,ST0305,Female,10.0,Hope Academy,,,,Early Marriage
+305,ST0306,Male,9.0,,11.0,70.0,No,Relocation
+306,ST0307,Female,13.0,Unity School,7.0,60.0,No,Relocation
+307,ST0308,Female,11.0,Kalobeyei Secondary,2.0,88.0,No,Early Marriage
+308,ST0309,,7.0,Hope Academy,8.0,77.0,No,Early Marriage
+309,ST0310,Female,9.0,Kalobeyei Secondary,11.0,54.0,,Family Responsibility
+310,ST0311,Female,17.0,Unity School,6.0,66.0,No,Health Issues
+311,ST0312,Male,16.0,Kalobeyei Secondary,8.0,69.0,No,Health Issues
+312,ST0313,Female,9.0,Hope Academy,1.0,,No,Early Marriage
+313,ST0314,Male,11.0,,1.0,95.0,No,Family Responsibility
+314,ST0315,Male,11.0,Hope Academy,7.0,61.0,,Health Issues
+315,ST0316,Female,,,8.0,55.0,No,Family Responsibility
+316,ST0317,Male,19.0,Kalobeyei Secondary,3.0,66.0,No,Family Responsibility
+317,ST0318,Male,13.0,Unity School,5.0,100.0,No,Relocation
+318,ST0319,Male,11.0,,,68.0,No,Health Issues
+319,ST0320,,8.0,Unity School,7.0,75.0,No,Health Issues
+320,ST0321,Female,19.0,Kakuma Primary,5.0,97.0,,Relocation
+321,ST0322,Male,14.0,,8.0,93.0,No,Early Marriage
+322,ST0323,Female,7.0,Hope Academy,8.0,,No,Relocation
+323,ST0324,Female,16.0,Unity School,9.0,81.0,Yes,Health Issues
+324,ST0325,Female,13.0,Kakuma Primary,7.0,55.0,No,Health Issues
+325,ST0326,Female,15.0,Hope Academy,11.0,85.0,No,Early Marriage
+326,ST0327,Male,8.0,Unity School,1.0,87.0,Yes,
+327,ST0328,Male,18.0,Kalobeyei Secondary,3.0,60.0,No,Financial Issues
+328,ST0329,Female,17.0,Hope Academy,8.0,,No,Financial Issues
+329,ST0330,Female,10.0,Kakuma Primary,3.0,73.0,No,Early Marriage
+330,ST0331,Male,11.0,Kakuma Primary,8.0,72.0,No,Relocation
+331,ST0332,,15.0,Hope Academy,1.0,64.0,No,Relocation
+332,ST0333,Female,11.0,Hope Academy,5.0,76.0,,Family Responsibility
+333,ST0334,Male,9.0,Kakuma Primary,4.0,60.0,No,Health Issues
+334,ST0335,Female,8.0,Kalobeyei Secondary,5.0,,No,Lack of Interest
+335,ST0336,Female,9.0,Unity School,8.0,99.0,No,Early Marriage
+336,ST0337,Male,6.0,,10.0,66.0,No,Lack of Interest
+337,ST0338,Male,9.0,Hope Academy,4.0,100.0,No,Lack of Interest
+338,ST0339,Female,6.0,Kalobeyei Secondary,11.0,63.0,No,Early Marriage
+339,ST0340,Female,,Kakuma Primary,4.0,,No,Relocation
+340,ST0341,Male,6.0,Hope Academy,3.0,67.0,No,Early Marriage
+341,ST0342,Female,15.0,Unity School,,77.0,No,Lack of Interest
+342,ST0343,Male,19.0,Kakuma Primary,3.0,100.0,No,Health Issues
+343,ST0344,Female,11.0,Kakuma Primary,,96.0,Yes,Health Issues
+344,ST0345,Male,10.0,Unity School,11.0,96.0,No,Health Issues
+345,ST0346,Male,19.0,Unity School,10.0,53.0,No,Relocation
+346,ST0347,Male,16.0,Kalobeyei Secondary,5.0,56.0,No,Financial Issues
+347,ST0348,Female,9.0,Hope Academy,5.0,94.0,No,Early Marriage
+348,ST0349,Female,18.0,Unity School,6.0,84.0,No,Health Issues
+349,ST0350,Male,16.0,Unity School,8.0,97.0,,Early Marriage
+350,ST0351,Female,8.0,Hope Academy,10.0,58.0,,Health Issues
+351,ST0352,Male,,Unity School,6.0,57.0,Yes,Relocation
+352,ST0353,,11.0,Unity School,1.0,94.0,No,Financial Issues
+353,ST0354,,7.0,Kalobeyei Secondary,8.0,66.0,No,Financial Issues
+354,ST0355,Female,13.0,Kakuma Primary,8.0,66.0,No,Health Issues
+355,ST0356,Male,15.0,Kakuma Primary,9.0,98.0,,Relocation
+356,ST0357,Female,10.0,Kakuma Primary,9.0,82.0,No,
+357,ST0358,Female,12.0,Kakuma Primary,2.0,,No,Early Marriage
+358,ST0359,Male,15.0,Unity School,2.0,57.0,No,Early Marriage
+359,ST0360,,,Hope Academy,3.0,68.0,No,Lack of Interest
+360,ST0361,Female,7.0,Hope Academy,1.0,87.0,No,Relocation
+361,ST0362,Male,18.0,Kalobeyei Secondary,4.0,52.0,,Lack of Interest
+362,ST0363,Male,13.0,Kalobeyei Secondary,4.0,54.0,No,Health Issues
+363,ST0364,Female,,Unity School,9.0,62.0,No,Lack of Interest
+364,ST0365,Male,9.0,Hope Academy,9.0,96.0,No,Financial Issues
+365,ST0366,Male,6.0,Hope Academy,9.0,95.0,No,
+366,ST0367,Female,10.0,Kakuma Primary,10.0,,No,Lack of Interest
+367,ST0368,Female,14.0,Unity School,7.0,65.0,No,Financial Issues
+368,ST0369,Male,6.0,Unity School,2.0,99.0,No,Relocation
+369,ST0370,Male,14.0,Kakuma Primary,,,No,Lack of Interest
+370,ST0371,,16.0,Unity School,5.0,,No,Health Issues
+371,ST0372,Female,13.0,Unity School,4.0,78.0,,Health Issues
+372,ST0373,Female,11.0,Kalobeyei Secondary,11.0,71.0,No,Health Issues
+373,ST0374,,12.0,Hope Academy,8.0,92.0,,Early Marriage
+374,ST0375,Male,8.0,Unity School,2.0,52.0,No,
+375,ST0376,Female,19.0,Kalobeyei Secondary,6.0,59.0,No,Relocation
+376,ST0377,Female,6.0,Hope Academy,5.0,91.0,No,Lack of Interest
+377,ST0378,Male,10.0,Kakuma Primary,2.0,70.0,No,
+378,ST0379,Female,19.0,Kalobeyei Secondary,11.0,65.0,Yes,Financial Issues
+379,ST0380,Male,17.0,Kalobeyei Secondary,10.0,61.0,No,Early Marriage
+380,ST0381,Female,17.0,,1.0,51.0,No,Health Issues
+381,ST0382,Female,7.0,Kakuma Primary,8.0,90.0,Yes,
+382,ST0383,Female,,Kalobeyei Secondary,2.0,73.0,No,Health Issues
+383,ST0384,Male,10.0,Unity School,7.0,84.0,No,Family Responsibility
+384,ST0385,Male,13.0,Unity School,9.0,79.0,Yes,Early Marriage
+385,ST0386,Female,16.0,Unity School,9.0,79.0,No,Early Marriage
+386,ST0387,Male,14.0,Kakuma Primary,8.0,96.0,Yes,Relocation
+387,ST0388,Male,7.0,Kalobeyei Secondary,,84.0,No,Lack of Interest
+388,ST0389,Male,17.0,Unity School,10.0,,,Financial Issues
+389,ST0390,Male,8.0,Kakuma Primary,9.0,99.0,No,Financial Issues
+390,ST0391,Male,8.0,Unity School,2.0,57.0,No,Relocation
+391,ST0392,Male,6.0,Hope Academy,6.0,75.0,No,Relocation
+392,ST0393,Female,13.0,Kalobeyei Secondary,4.0,98.0,No,Lack of Interest
+393,ST0394,Female,11.0,Kalobeyei Secondary,4.0,89.0,No,Health Issues
+394,ST0395,Male,17.0,Kakuma Primary,5.0,56.0,No,Lack of Interest
+395,ST0396,Female,18.0,Kakuma Primary,3.0,79.0,No,Early Marriage
+396,ST0397,Female,,,1.0,56.0,Yes,Health Issues
+397,ST0398,Female,16.0,Unity School,8.0,52.0,No,Family Responsibility
+398,ST0399,Female,14.0,Unity School,5.0,,Yes,Lack of Interest
+399,ST0400,Male,10.0,Hope Academy,3.0,85.0,No,
+400,ST0401,Female,,Unity School,10.0,74.0,No,Health Issues
+401,ST0402,Female,17.0,Kakuma Primary,7.0,86.0,,Lack of Interest
+402,ST0403,Male,19.0,Kakuma Primary,7.0,50.0,No,Financial Issues
+403,ST0404,Male,8.0,Unity School,1.0,64.0,No,Family Responsibility
+404,ST0405,Female,10.0,Kakuma Primary,9.0,86.0,Yes,Early Marriage
+405,ST0406,Female,10.0,Kalobeyei Secondary,2.0,62.0,No,Financial Issues
+406,ST0407,,10.0,Kalobeyei Secondary,5.0,,No,Financial Issues
+407,ST0408,Female,8.0,,5.0,57.0,No,Family Responsibility
+408,ST0409,Female,16.0,Kalobeyei Secondary,8.0,54.0,No,Early Marriage
+409,ST0410,Female,19.0,Kalobeyei Secondary,8.0,58.0,No,Relocation
+410,ST0411,Male,15.0,,,50.0,No,Health Issues
+411,ST0412,Female,19.0,Hope Academy,,85.0,No,Early Marriage
+412,ST0413,Female,9.0,Kalobeyei Secondary,11.0,84.0,Yes,Lack of Interest
+413,ST0414,,14.0,Unity School,6.0,51.0,Yes,Financial Issues
+414,ST0415,Male,18.0,Hope Academy,6.0,89.0,Yes,Lack of Interest
+415,ST0416,Male,15.0,Kakuma Primary,11.0,72.0,No,Relocation
+416,ST0417,Male,14.0,Kakuma Primary,,58.0,No,
+417,ST0418,Female,7.0,Kakuma Primary,6.0,,No,Early Marriage
+418,ST0419,,13.0,Unity School,2.0,95.0,No,Lack of Interest
+419,ST0420,Female,13.0,Kalobeyei Secondary,2.0,63.0,No,Relocation
+420,ST0421,Female,12.0,Kakuma Primary,5.0,53.0,No,Relocation
+421,ST0422,Female,13.0,Unity School,4.0,,No,Relocation
+422,ST0423,Female,19.0,Hope Academy,11.0,80.0,Yes,Early Marriage
+423,ST0424,Male,8.0,Kalobeyei Secondary,2.0,87.0,No,Relocation
+424,ST0425,Female,18.0,,3.0,60.0,No,Financial Issues
+425,ST0426,Male,11.0,,7.0,,No,
+426,ST0427,Male,6.0,,8.0,57.0,No,Lack of Interest
+427,ST0428,Female,12.0,Kakuma Primary,6.0,52.0,,Health Issues
+428,ST0429,Male,6.0,Unity School,,,No,Lack of Interest
+429,ST0430,Female,14.0,Kakuma Primary,5.0,,Yes,Health Issues
+430,ST0431,Male,6.0,Kalobeyei Secondary,1.0,94.0,No,
+431,ST0432,Female,6.0,Unity School,8.0,81.0,No,Early Marriage
+432,ST0433,Male,12.0,Hope Academy,3.0,83.0,No,Lack of Interest
+433,ST0434,Female,7.0,,6.0,94.0,No,Early Marriage
+434,ST0435,Female,,Kalobeyei Secondary,3.0,68.0,No,Early Marriage
+435,ST0436,Female,10.0,Kalobeyei Secondary,7.0,87.0,,Relocation
+436,ST0437,,13.0,Unity School,7.0,65.0,No,Financial Issues
+437,ST0438,Female,13.0,Unity School,9.0,51.0,No,Health Issues
+438,ST0439,Male,8.0,Kakuma Primary,5.0,,No,Relocation
+439,ST0440,Male,12.0,Kalobeyei Secondary,8.0,66.0,No,Relocation
+440,ST0441,Male,8.0,Unity School,10.0,83.0,No,Early Marriage
+441,ST0442,Female,11.0,Unity School,10.0,91.0,No,
+442,ST0443,Male,11.0,Kalobeyei Secondary,8.0,65.0,Yes,Health Issues
+443,ST0444,Female,8.0,Unity School,1.0,87.0,No,Lack of Interest
+444,ST0445,Female,12.0,Kakuma Primary,5.0,51.0,,Lack of Interest
+445,ST0446,Male,8.0,Kalobeyei Secondary,3.0,,No,Relocation
+446,ST0447,Male,13.0,Kakuma Primary,,75.0,No,Family Responsibility
+447,ST0448,Female,15.0,,4.0,62.0,No,Family Responsibility
+448,ST0449,Male,9.0,Kakuma Primary,8.0,96.0,No,Lack of Interest
+449,ST0450,,18.0,Kakuma Primary,3.0,80.0,No,Family Responsibility
+450,ST0451,,6.0,Kalobeyei Secondary,10.0,83.0,Yes,Lack of Interest
+451,ST0452,Female,9.0,Kakuma Primary,2.0,88.0,No,Early Marriage
+452,ST0453,Female,19.0,Kakuma Primary,11.0,52.0,No,Relocation
+453,ST0454,Female,,Unity School,9.0,57.0,No,Financial Issues
+454,ST0455,,16.0,Kalobeyei Secondary,10.0,72.0,No,Relocation
+455,ST0456,Male,,Kalobeyei Secondary,5.0,63.0,No,Lack of Interest
+456,ST0457,Female,18.0,Hope Academy,7.0,76.0,No,Lack of Interest
+457,ST0458,Female,11.0,Kalobeyei Secondary,11.0,78.0,No,Relocation
+458,ST0459,Male,14.0,Kalobeyei Secondary,11.0,88.0,No,Health Issues
+459,ST0460,,6.0,Hope Academy,2.0,88.0,No,Lack of Interest
+460,ST0461,Female,18.0,Kalobeyei Secondary,9.0,50.0,,Family Responsibility
+461,ST0462,Male,10.0,Kalobeyei Secondary,9.0,66.0,No,Family Responsibility
+462,ST0463,Female,16.0,Kalobeyei Secondary,4.0,90.0,No,Lack of Interest
+463,ST0464,Male,12.0,Kalobeyei Secondary,4.0,79.0,No,Lack of Interest
+464,ST0465,Female,6.0,Hope Academy,6.0,62.0,No,Health Issues
+465,ST0466,Male,19.0,Kalobeyei Secondary,10.0,70.0,No,Family Responsibility
+466,ST0467,Female,9.0,Kalobeyei Secondary,10.0,68.0,Yes,Lack of Interest
+467,ST0468,,11.0,Hope Academy,10.0,68.0,No,Lack of Interest
+468,ST0469,Male,7.0,Unity School,6.0,74.0,No,Health Issues
+469,ST0470,Female,15.0,Kakuma Primary,1.0,71.0,No,Health Issues
+470,ST0471,Male,10.0,Unity School,9.0,80.0,No,
+471,ST0472,Female,,Hope Academy,2.0,66.0,No,Health Issues
+472,ST0473,Male,15.0,Kakuma Primary,5.0,72.0,No,Financial Issues
+473,ST0474,Female,6.0,Hope Academy,9.0,81.0,No,Family Responsibility
+474,ST0475,Male,11.0,Hope Academy,4.0,59.0,Yes,Relocation
+475,ST0476,Female,11.0,Kalobeyei Secondary,11.0,59.0,No,Financial Issues
+476,ST0477,Male,18.0,,3.0,85.0,No,Lack of Interest
+477,ST0478,Female,9.0,,7.0,,No,Lack of Interest
+478,ST0479,Male,18.0,Kakuma Primary,6.0,69.0,No,Relocation
+479,ST0480,Female,13.0,Hope Academy,,81.0,No,Health Issues
+480,ST0481,,,Hope Academy,3.0,99.0,No,Lack of Interest
+481,ST0482,Female,13.0,Unity School,5.0,63.0,No,Early Marriage
+482,ST0483,Male,18.0,Kakuma Primary,,99.0,No,Relocation
+483,ST0484,Female,13.0,Kalobeyei Secondary,4.0,77.0,No,Financial Issues
+484,ST0485,Male,,Unity School,4.0,95.0,No,Relocation
+485,ST0486,Female,18.0,Unity School,4.0,73.0,No,Family Responsibility
+486,ST0487,Male,9.0,Unity School,10.0,64.0,No,Health Issues
+487,ST0488,Female,17.0,Kalobeyei Secondary,8.0,71.0,No,Health Issues
+488,ST0489,Male,18.0,Unity School,6.0,79.0,No,Relocation
+489,ST0490,,7.0,Kalobeyei Secondary,3.0,53.0,No,
+490,ST0491,Female,,,10.0,,Yes,Lack of Interest
+491,ST0492,Male,8.0,Kalobeyei Secondary,5.0,72.0,No,Early Marriage
+492,ST0493,Male,8.0,,6.0,57.0,,
+493,ST0494,Female,9.0,Hope Academy,,67.0,No,
+494,ST0495,Male,9.0,Hope Academy,6.0,61.0,No,Early Marriage
+495,ST0496,Male,15.0,Hope Academy,8.0,80.0,No,Financial Issues
+496,ST0497,Male,16.0,Hope Academy,7.0,63.0,No,Early Marriage
+497,ST0498,Female,16.0,Unity School,5.0,83.0,No,Financial Issues
+498,ST0499,Male,10.0,Unity School,10.0,67.0,No,
+499,ST0500,Female,9.0,,,83.0,No,
+500,ST0501,Male,16.0,Kalobeyei Secondary,4.0,60.0,Yes,Health Issues
+501,ST0502,Male,19.0,Kalobeyei Secondary,9.0,90.0,No,Financial Issues
+502,ST0503,Male,15.0,Kalobeyei Secondary,4.0,61.0,No,Relocation
+503,ST0504,Female,13.0,Kalobeyei Secondary,1.0,98.0,No,Health Issues
+504,ST0505,,11.0,Hope Academy,7.0,64.0,No,Relocation
+505,ST0506,Male,,Hope Academy,7.0,80.0,,Lack of Interest
+506,ST0507,Female,13.0,Hope Academy,4.0,98.0,No,Financial Issues
+507,ST0508,Male,12.0,Kakuma Primary,3.0,78.0,No,Health Issues
+508,ST0509,Female,15.0,Unity School,8.0,75.0,No,Family Responsibility
+509,ST0510,,19.0,Kalobeyei Secondary,5.0,67.0,Yes,Lack of Interest
+510,ST0511,Male,16.0,Kalobeyei Secondary,10.0,81.0,Yes,Relocation
+511,ST0512,Female,17.0,Hope Academy,7.0,71.0,No,Health Issues
+512,ST0513,Male,15.0,Kalobeyei Secondary,4.0,87.0,Yes,Financial Issues
+513,ST0514,Female,18.0,Kalobeyei Secondary,4.0,66.0,,Early Marriage
+514,ST0515,Female,13.0,,8.0,72.0,,Family Responsibility
+515,ST0516,,19.0,Hope Academy,8.0,73.0,No,Relocation
+516,ST0517,Female,7.0,Unity School,2.0,99.0,No,Lack of Interest
+517,ST0518,Female,14.0,Kakuma Primary,2.0,57.0,Yes,Financial Issues
+518,ST0519,Female,6.0,Kakuma Primary,,90.0,No,Family Responsibility
+519,ST0520,,,Kakuma Primary,3.0,55.0,Yes,Financial Issues
+520,ST0521,Female,17.0,Hope Academy,1.0,54.0,No,Health Issues
+521,ST0522,Male,16.0,Kalobeyei Secondary,3.0,93.0,No,Early Marriage
+522,ST0523,Female,17.0,Hope Academy,,78.0,No,Lack of Interest
+523,ST0524,Male,17.0,Hope Academy,,77.0,No,Financial Issues
+524,ST0525,Female,9.0,Kalobeyei Secondary,10.0,60.0,Yes,Relocation
+525,ST0526,Male,9.0,Unity School,6.0,,No,Health Issues
+526,ST0527,Male,10.0,Kakuma Primary,5.0,,,Health Issues
+527,ST0528,Female,13.0,Unity School,4.0,68.0,No,Lack of Interest
+528,ST0529,Female,10.0,Kakuma Primary,,58.0,Yes,
+529,ST0530,Female,13.0,Hope Academy,,76.0,No,Relocation
+530,ST0531,Male,,Kakuma Primary,7.0,83.0,No,Financial Issues
+531,ST0532,Female,6.0,,1.0,93.0,No,Lack of Interest
+532,ST0533,Male,17.0,Unity School,7.0,53.0,No,Health Issues
+533,ST0534,Male,15.0,Hope Academy,1.0,,No,
+534,ST0535,Male,14.0,Unity School,2.0,67.0,,Relocation
+535,ST0536,Female,11.0,Kalobeyei Secondary,,,No,Early Marriage
+536,ST0537,Female,8.0,Kalobeyei Secondary,1.0,100.0,No,Early Marriage
+537,ST0538,Male,18.0,Kalobeyei Secondary,11.0,62.0,No,Health Issues
+538,ST0539,Male,19.0,Hope Academy,11.0,68.0,No,Financial Issues
+539,ST0540,Female,13.0,Kalobeyei Secondary,11.0,98.0,No,Lack of Interest
+540,ST0541,Male,14.0,Kakuma Primary,9.0,55.0,No,Health Issues
+541,ST0542,Female,11.0,Unity School,6.0,97.0,No,Family Responsibility
+542,ST0543,Male,16.0,Unity School,1.0,61.0,No,
+543,ST0544,Female,,Kakuma Primary,1.0,100.0,,Early Marriage
+544,ST0545,Male,6.0,Hope Academy,6.0,86.0,No,Health Issues
+545,ST0546,Female,19.0,Hope Academy,4.0,66.0,No,Relocation
+546,ST0547,Male,10.0,Unity School,4.0,72.0,No,Family Responsibility
+547,ST0548,Female,10.0,Kalobeyei Secondary,11.0,75.0,Yes,Health Issues
+548,ST0549,Female,,,6.0,78.0,No,Financial Issues
+549,ST0550,Male,19.0,Hope Academy,11.0,82.0,,Family Responsibility
+550,ST0551,Male,9.0,Kakuma Primary,7.0,76.0,Yes,Health Issues
+551,ST0552,Female,11.0,Kakuma Primary,9.0,74.0,No,Financial Issues
+552,ST0553,Male,12.0,Kalobeyei Secondary,10.0,59.0,No,Family Responsibility
+553,ST0554,Female,14.0,Hope Academy,5.0,96.0,Yes,Financial Issues
+554,ST0555,,6.0,Hope Academy,9.0,72.0,,
+555,ST0556,,11.0,Kakuma Primary,4.0,70.0,,Family Responsibility
+556,ST0557,,12.0,Hope Academy,10.0,70.0,No,Family Responsibility
+557,ST0558,,8.0,Unity School,2.0,92.0,No,Financial Issues
+558,ST0559,Female,,Kakuma Primary,,62.0,No,Early Marriage
+559,ST0560,Female,10.0,Kalobeyei Secondary,11.0,86.0,Yes,Family Responsibility
+560,ST0561,Female,14.0,Kakuma Primary,1.0,82.0,No,Health Issues
+561,ST0562,Male,10.0,Hope Academy,6.0,73.0,No,Lack of Interest
+562,ST0563,,14.0,Kalobeyei Secondary,6.0,93.0,No,Relocation
+563,ST0564,Male,15.0,Kakuma Primary,1.0,60.0,Yes,
+564,ST0565,Female,,Unity School,11.0,66.0,No,Financial Issues
+565,ST0566,Female,,Unity School,3.0,53.0,Yes,Relocation
+566,ST0567,Female,,Kakuma Primary,5.0,96.0,Yes,
+567,ST0568,Female,15.0,Unity School,3.0,74.0,No,Relocation
+568,ST0569,Male,14.0,,10.0,79.0,No,
+569,ST0570,Male,8.0,,3.0,58.0,No,Relocation
+570,ST0571,Female,9.0,Kalobeyei Secondary,10.0,70.0,No,Financial Issues
+571,ST0572,Male,,,3.0,69.0,No,Relocation
+572,ST0573,Male,15.0,Unity School,5.0,68.0,No,Lack of Interest
+573,ST0574,Female,16.0,Unity School,5.0,68.0,No,Health Issues
+574,ST0575,Male,11.0,Kalobeyei Secondary,4.0,61.0,No,Family Responsibility
+575,ST0576,Female,7.0,Kakuma Primary,1.0,86.0,No,Relocation
+576,ST0577,Male,,Hope Academy,5.0,91.0,No,
+577,ST0578,Female,,Unity School,10.0,66.0,Yes,Health Issues
+578,ST0579,Female,16.0,,5.0,86.0,,Family Responsibility
+579,ST0580,Female,7.0,Unity School,4.0,97.0,Yes,Financial Issues
+580,ST0581,Female,16.0,Kalobeyei Secondary,6.0,88.0,No,Early Marriage
+581,ST0582,Male,6.0,Kakuma Primary,10.0,,No,Lack of Interest
+582,ST0583,Female,16.0,Kalobeyei Secondary,4.0,90.0,Yes,Early Marriage
+583,ST0584,Female,16.0,Unity School,7.0,84.0,No,Lack of Interest
+584,ST0585,Female,17.0,Unity School,7.0,,No,Relocation
+585,ST0586,Male,16.0,Kalobeyei Secondary,2.0,97.0,No,Family Responsibility
+586,ST0587,Female,8.0,,3.0,67.0,No,Relocation
+587,ST0588,,11.0,Kalobeyei Secondary,1.0,,No,Lack of Interest
+588,ST0589,,13.0,Unity School,8.0,84.0,No,Lack of Interest
+589,ST0590,Male,14.0,Kalobeyei Secondary,,93.0,No,Lack of Interest
+590,ST0591,Male,12.0,Hope Academy,4.0,90.0,No,Health Issues
+591,ST0592,Female,9.0,Kalobeyei Secondary,6.0,56.0,,Financial Issues
+592,ST0593,Male,11.0,,9.0,90.0,No,Family Responsibility
+593,ST0594,Female,10.0,,6.0,62.0,No,Relocation
+594,ST0595,Female,13.0,,,67.0,No,Relocation
+595,ST0596,Female,6.0,Kalobeyei Secondary,4.0,86.0,Yes,Early Marriage
+596,ST0597,Male,6.0,,8.0,62.0,No,Lack of Interest
+597,ST0598,Male,18.0,Unity School,9.0,85.0,No,Lack of Interest
+598,ST0599,Female,16.0,Hope Academy,4.0,80.0,No,Lack of Interest
+599,ST0600,Female,11.0,Kakuma Primary,5.0,51.0,,Relocation
+600,ST0601,Male,15.0,Kalobeyei Secondary,8.0,65.0,,Early Marriage
+601,ST0602,Female,17.0,Unity School,10.0,,No,Financial Issues
+602,ST0603,Female,7.0,Kakuma Primary,6.0,58.0,No,Health Issues
+603,ST0604,Female,10.0,Hope Academy,7.0,87.0,Yes,Family Responsibility
+604,ST0605,Male,6.0,Kakuma Primary,,60.0,No,Financial Issues
+605,ST0606,Male,12.0,Hope Academy,7.0,71.0,No,Relocation
+606,ST0607,Male,6.0,,8.0,82.0,No,Health Issues
+607,ST0608,Female,,Unity School,,85.0,No,Health Issues
+608,ST0609,Female,14.0,Unity School,6.0,94.0,,Health Issues
+609,ST0610,Female,6.0,Unity School,,72.0,No,Lack of Interest
+610,ST0611,Male,9.0,Kalobeyei Secondary,,94.0,,Family Responsibility
+611,ST0612,Female,11.0,Hope Academy,6.0,94.0,No,Relocation
+612,ST0613,Female,11.0,Kalobeyei Secondary,9.0,83.0,,Relocation
+613,ST0614,Female,17.0,Unity School,4.0,58.0,Yes,Health Issues
+614,ST0615,Female,18.0,Kalobeyei Secondary,8.0,73.0,No,Relocation
+615,ST0616,Male,13.0,Kalobeyei Secondary,11.0,57.0,,Family Responsibility
+616,ST0617,Male,6.0,Kalobeyei Secondary,4.0,56.0,No,Family Responsibility
+617,ST0618,Female,12.0,Hope Academy,,85.0,Yes,Early Marriage
+618,ST0619,Male,6.0,Kakuma Primary,10.0,67.0,,Early Marriage
+619,ST0620,Male,18.0,Kakuma Primary,11.0,52.0,No,Financial Issues
+620,ST0621,Female,19.0,,9.0,77.0,No,Family Responsibility
+621,ST0622,,12.0,Kakuma Primary,5.0,,Yes,Family Responsibility
+622,ST0623,Male,8.0,,4.0,93.0,Yes,Family Responsibility
+623,ST0624,Female,16.0,Kalobeyei Secondary,2.0,93.0,Yes,Early Marriage
+624,ST0625,Male,13.0,Kalobeyei Secondary,1.0,70.0,,Health Issues
+625,ST0626,Female,8.0,Unity School,11.0,77.0,No,Health Issues
+626,ST0627,Male,19.0,Kakuma Primary,7.0,,No,Relocation
+627,ST0628,Female,19.0,Hope Academy,6.0,50.0,No,Health Issues
+628,ST0629,Male,18.0,Kalobeyei Secondary,2.0,,Yes,Lack of Interest
+629,ST0630,Male,6.0,Unity School,8.0,70.0,No,Early Marriage
+630,ST0631,,18.0,,,92.0,No,Family Responsibility
+631,ST0632,Female,18.0,Kakuma Primary,4.0,84.0,No,Health Issues
+632,ST0633,Male,19.0,Unity School,8.0,,No,Early Marriage
+633,ST0634,Male,13.0,Kalobeyei Secondary,7.0,98.0,,Health Issues
+634,ST0635,Female,8.0,Hope Academy,5.0,59.0,Yes,Financial Issues
+635,ST0636,Female,7.0,Kalobeyei Secondary,10.0,,No,Family Responsibility
+636,ST0637,Male,6.0,Kakuma Primary,10.0,96.0,No,Financial Issues
+637,ST0638,Male,19.0,Hope Academy,8.0,59.0,Yes,Family Responsibility
+638,ST0639,Female,8.0,Kakuma Primary,9.0,95.0,No,Early Marriage
+639,ST0640,,,Kakuma Primary,,,No,Relocation
+640,ST0641,Female,7.0,Unity School,10.0,86.0,Yes,
+641,ST0642,Female,11.0,Kalobeyei Secondary,,,No,Health Issues
+642,ST0643,Female,17.0,Hope Academy,2.0,73.0,No,Lack of Interest
+643,ST0644,Male,6.0,Kakuma Primary,5.0,51.0,No,Financial Issues
+644,ST0645,Female,7.0,Kakuma Primary,3.0,71.0,Yes,Health Issues
+645,ST0646,Male,19.0,,7.0,,No,Early Marriage
+646,ST0647,Male,11.0,,10.0,85.0,No,
+647,ST0648,Male,8.0,Unity School,5.0,63.0,No,Early Marriage
+648,ST0649,,9.0,Unity School,,59.0,No,Financial Issues
+649,ST0650,Male,6.0,Unity School,1.0,84.0,Yes,Lack of Interest
+650,ST0651,Male,,Unity School,3.0,74.0,Yes,Health Issues
+651,ST0652,,18.0,Kakuma Primary,3.0,52.0,No,Early Marriage
+652,ST0653,Male,12.0,Hope Academy,9.0,96.0,No,Family Responsibility
+653,ST0654,Male,,Hope Academy,5.0,,No,
+654,ST0655,Female,8.0,Hope Academy,9.0,,No,Early Marriage
+655,ST0656,Male,15.0,Hope Academy,9.0,61.0,No,Relocation
+656,ST0657,Male,15.0,Kalobeyei Secondary,1.0,73.0,No,Health Issues
+657,ST0658,Male,8.0,Hope Academy,2.0,78.0,No,Family Responsibility
+658,ST0659,Female,19.0,Kalobeyei Secondary,5.0,92.0,,Lack of Interest
+659,ST0660,Female,7.0,Kalobeyei Secondary,4.0,,No,Lack of Interest
+660,ST0661,Female,17.0,,10.0,85.0,No,Family Responsibility
+661,ST0662,,,Kalobeyei Secondary,9.0,75.0,No,Relocation
+662,ST0663,Male,12.0,Kakuma Primary,7.0,87.0,No,Health Issues
+663,ST0664,,12.0,Kalobeyei Secondary,6.0,,Yes,Early Marriage
+664,ST0665,Male,17.0,Unity School,7.0,69.0,Yes,Family Responsibility
+665,ST0666,Male,7.0,Kalobeyei Secondary,1.0,77.0,Yes,Financial Issues
+666,ST0667,Female,12.0,Kakuma Primary,1.0,65.0,No,
+667,ST0668,Female,18.0,Kakuma Primary,8.0,96.0,No,Lack of Interest
+668,ST0669,Male,,Kakuma Primary,2.0,66.0,No,Family Responsibility
+669,ST0670,Male,6.0,Unity School,10.0,89.0,Yes,Lack of Interest
+670,ST0671,Male,14.0,Unity School,,77.0,No,Relocation
+671,ST0672,Female,12.0,Hope Academy,9.0,61.0,,
+672,ST0673,,8.0,Unity School,7.0,76.0,No,Family Responsibility
+673,ST0674,Female,13.0,Kakuma Primary,6.0,,No,Relocation
+674,ST0675,Female,12.0,Kakuma Primary,1.0,96.0,No,Financial Issues
+675,ST0676,Male,16.0,,1.0,,No,Family Responsibility
+676,ST0677,Female,,Kalobeyei Secondary,2.0,90.0,Yes,Early Marriage
+677,ST0678,Female,13.0,Unity School,6.0,83.0,No,Health Issues
+678,ST0679,Female,11.0,Unity School,6.0,86.0,Yes,Family Responsibility
+679,ST0680,Female,14.0,Kakuma Primary,2.0,55.0,No,Relocation
+680,ST0681,Female,10.0,Hope Academy,1.0,56.0,No,Health Issues
+681,ST0682,Male,8.0,Kakuma Primary,10.0,,No,Family Responsibility
+682,ST0683,Male,8.0,Hope Academy,5.0,81.0,No,Financial Issues
+683,ST0684,Female,6.0,Kakuma Primary,5.0,74.0,No,Financial Issues
+684,ST0685,Male,17.0,Unity School,2.0,82.0,No,
+685,ST0686,Female,13.0,Kakuma Primary,6.0,56.0,No,Lack of Interest
+686,ST0687,Female,7.0,Kakuma Primary,9.0,61.0,No,Health Issues
+687,ST0688,Male,8.0,Kakuma Primary,2.0,65.0,,
+688,ST0689,Male,13.0,Unity School,10.0,,No,Relocation
+689,ST0690,Female,,Unity School,2.0,92.0,No,Lack of Interest
+690,ST0691,Female,13.0,Unity School,3.0,85.0,No,Financial Issues
+691,ST0692,Female,19.0,Unity School,7.0,62.0,No,
+692,ST0693,Male,16.0,Hope Academy,6.0,56.0,No,Family Responsibility
+693,ST0694,Female,9.0,Hope Academy,8.0,85.0,No,Early Marriage
+694,ST0695,,,Kalobeyei Secondary,8.0,96.0,Yes,Health Issues
+695,ST0696,Female,,Unity School,6.0,100.0,No,Early Marriage
+696,ST0697,Male,11.0,Hope Academy,11.0,58.0,Yes,
+697,ST0698,Female,10.0,Kakuma Primary,10.0,81.0,No,Family Responsibility
+698,ST0699,Female,19.0,Unity School,3.0,60.0,,Early Marriage
+699,ST0700,Male,12.0,Kalobeyei Secondary,3.0,57.0,No,Lack of Interest
+700,ST0701,Female,7.0,Kalobeyei Secondary,1.0,82.0,No,Family Responsibility
+701,ST0702,Female,12.0,Kalobeyei Secondary,7.0,72.0,No,Lack of Interest
+702,ST0703,Male,15.0,Kakuma Primary,5.0,74.0,No,Family Responsibility
+703,ST0704,Female,12.0,Hope Academy,4.0,57.0,No,Early Marriage
+704,ST0705,,6.0,Kakuma Primary,10.0,94.0,No,
+705,ST0706,Male,12.0,Unity School,4.0,71.0,No,Lack of Interest
+706,ST0707,Female,10.0,Kalobeyei Secondary,4.0,53.0,No,
+707,ST0708,Female,8.0,Kakuma Primary,6.0,89.0,No,Family Responsibility
+708,ST0709,Female,18.0,Kakuma Primary,8.0,52.0,No,Relocation
+709,ST0710,,8.0,Hope Academy,8.0,78.0,,
+710,ST0711,Male,9.0,Hope Academy,5.0,90.0,No,Lack of Interest
+711,ST0712,Female,18.0,Kalobeyei Secondary,6.0,,No,Health Issues
+712,ST0713,Male,17.0,,4.0,83.0,No,Relocation
+713,ST0714,Female,,Kakuma Primary,11.0,83.0,No,Health Issues
+714,ST0715,,7.0,Hope Academy,9.0,77.0,,Early Marriage
+715,ST0716,Female,6.0,Kakuma Primary,8.0,62.0,No,Early Marriage
+716,ST0717,Male,10.0,Kakuma Primary,10.0,64.0,No,
+717,ST0718,Female,9.0,Kakuma Primary,10.0,72.0,No,Lack of Interest
+718,ST0719,Female,,,,93.0,No,Family Responsibility
+719,ST0720,Female,,Kalobeyei Secondary,2.0,75.0,No,Relocation
+720,ST0721,Female,7.0,,,53.0,,Relocation
+721,ST0722,Male,8.0,Kalobeyei Secondary,8.0,75.0,No,Lack of Interest
+722,ST0723,,12.0,Unity School,3.0,89.0,Yes,Early Marriage
+723,ST0724,Male,12.0,Kakuma Primary,8.0,58.0,,Lack of Interest
+724,ST0725,Male,17.0,,1.0,54.0,No,Early Marriage
+725,ST0726,Male,9.0,Unity School,10.0,81.0,No,Early Marriage
+726,ST0727,Male,10.0,Hope Academy,4.0,69.0,No,Lack of Interest
+727,ST0728,Male,10.0,Hope Academy,3.0,99.0,Yes,Financial Issues
+728,ST0729,Male,11.0,Kalobeyei Secondary,6.0,60.0,No,Relocation
+729,ST0730,Female,,Kalobeyei Secondary,7.0,64.0,No,Health Issues
+730,ST0731,Male,14.0,Kakuma Primary,,81.0,No,Early Marriage
+731,ST0732,Male,7.0,Kalobeyei Secondary,,77.0,No,Early Marriage
+732,ST0733,Male,,Kakuma Primary,9.0,71.0,,
+733,ST0734,Female,17.0,Kakuma Primary,11.0,90.0,No,Health Issues
+734,ST0735,Female,8.0,Hope Academy,2.0,66.0,,Family Responsibility
+735,ST0736,Male,9.0,Hope Academy,11.0,75.0,No,Financial Issues
+736,ST0737,Female,15.0,Unity School,3.0,,Yes,Health Issues
+737,ST0738,,11.0,Hope Academy,,56.0,No,Financial Issues
+738,ST0739,Male,17.0,Hope Academy,3.0,91.0,No,Early Marriage
+739,ST0740,Female,13.0,Kalobeyei Secondary,11.0,75.0,No,Relocation
+740,ST0741,Male,6.0,Hope Academy,8.0,74.0,No,Financial Issues
+741,ST0742,,15.0,Unity School,10.0,59.0,No,Family Responsibility
+742,ST0743,Female,19.0,Kalobeyei Secondary,8.0,94.0,No,Lack of Interest
+743,ST0744,,13.0,Unity School,8.0,68.0,No,Health Issues
+744,ST0745,,16.0,,9.0,60.0,No,Financial Issues
+745,ST0746,Female,,Unity School,4.0,62.0,No,
+746,ST0747,Male,12.0,Kalobeyei Secondary,,57.0,No,Family Responsibility
+747,ST0748,Male,6.0,Kakuma Primary,,89.0,No,Relocation
+748,ST0749,Male,7.0,Unity School,8.0,53.0,No,Financial Issues
+749,ST0750,Female,,Unity School,7.0,,Yes,Financial Issues
+750,ST0751,Female,6.0,Kalobeyei Secondary,9.0,80.0,No,Relocation
+751,ST0752,Male,19.0,Kalobeyei Secondary,,77.0,No,
+752,ST0753,Female,,Unity School,2.0,60.0,No,Health Issues
+753,ST0754,Female,13.0,Hope Academy,10.0,92.0,No,Health Issues
+754,ST0755,Female,7.0,Unity School,,50.0,No,
+755,ST0756,Female,,Kalobeyei Secondary,6.0,98.0,Yes,Relocation
+756,ST0757,Female,14.0,Kakuma Primary,2.0,96.0,No,Financial Issues
+757,ST0758,Male,12.0,Kakuma Primary,7.0,87.0,No,Lack of Interest
+758,ST0759,,14.0,Hope Academy,3.0,73.0,No,Health Issues
+759,ST0760,,,Unity School,3.0,96.0,No,Early Marriage
+760,ST0761,Female,11.0,Kakuma Primary,11.0,80.0,No,Lack of Interest
+761,ST0762,Female,16.0,,2.0,,No,Financial Issues
+762,ST0763,Male,19.0,Kalobeyei Secondary,11.0,95.0,No,Family Responsibility
+763,ST0764,Female,9.0,Kakuma Primary,8.0,99.0,No,Health Issues
+764,ST0765,Male,15.0,Hope Academy,6.0,75.0,No,Early Marriage
+765,ST0766,Male,15.0,Kalobeyei Secondary,1.0,98.0,No,Lack of Interest
+766,ST0767,Male,,Hope Academy,1.0,99.0,No,Health Issues
+767,ST0768,Female,18.0,Kalobeyei Secondary,7.0,54.0,No,Relocation
+768,ST0769,Female,7.0,Kakuma Primary,8.0,69.0,Yes,Family Responsibility
+769,ST0770,Male,12.0,Hope Academy,5.0,90.0,No,Lack of Interest
+770,ST0771,,10.0,Hope Academy,11.0,60.0,No,Relocation
+771,ST0772,Male,16.0,Kalobeyei Secondary,,82.0,No,Financial Issues
+772,ST0773,Male,,Hope Academy,4.0,99.0,Yes,Relocation
+773,ST0774,,7.0,Kalobeyei Secondary,6.0,,Yes,Lack of Interest
+774,ST0775,Female,10.0,Kalobeyei Secondary,6.0,76.0,No,Lack of Interest
+775,ST0776,Male,15.0,Kalobeyei Secondary,3.0,83.0,No,Financial Issues
+776,ST0777,Male,9.0,Kalobeyei Secondary,9.0,64.0,,Relocation
+777,ST0778,Female,14.0,Kakuma Primary,11.0,81.0,No,Relocation
+778,ST0779,Female,11.0,Kalobeyei Secondary,7.0,,No,Financial Issues
+779,ST0780,Male,7.0,Unity School,1.0,95.0,No,Relocation
+780,ST0781,Male,6.0,Hope Academy,7.0,54.0,No,Health Issues
+781,ST0782,Male,10.0,Unity School,5.0,55.0,No,Financial Issues
+782,ST0783,Female,14.0,Kakuma Primary,5.0,87.0,No,
+783,ST0784,Female,11.0,,2.0,71.0,No,Lack of Interest
+784,ST0785,Female,15.0,Hope Academy,4.0,67.0,No,Family Responsibility
+785,ST0786,Male,17.0,Unity School,,,Yes,Health Issues
+786,ST0787,,12.0,Kakuma Primary,10.0,59.0,No,Health Issues
+787,ST0788,Female,10.0,Kalobeyei Secondary,11.0,95.0,No,Early Marriage
+788,ST0789,Female,15.0,Unity School,7.0,62.0,No,Early Marriage
+789,ST0790,Male,11.0,Kakuma Primary,11.0,80.0,No,
+790,ST0791,Female,10.0,,,79.0,No,Financial Issues
+791,ST0792,Female,16.0,Hope Academy,9.0,52.0,Yes,Relocation
+792,ST0793,,14.0,Hope Academy,3.0,79.0,No,Health Issues
+793,ST0794,Female,,Unity School,1.0,55.0,No,Family Responsibility
+794,ST0795,Male,16.0,,,78.0,No,Family Responsibility
+795,ST0796,Male,13.0,Kakuma Primary,9.0,57.0,Yes,Family Responsibility
+796,ST0797,,7.0,Unity School,4.0,93.0,No,Family Responsibility
+797,ST0798,Male,17.0,Kakuma Primary,,94.0,No,Early Marriage
+798,ST0799,Male,18.0,Kakuma Primary,10.0,92.0,No,Family Responsibility
+799,ST0800,,,Kalobeyei Secondary,5.0,93.0,No,Relocation
+800,ST0801,Male,10.0,Kalobeyei Secondary,3.0,82.0,,
+801,ST0802,Female,12.0,Unity School,9.0,66.0,No,
+802,ST0803,Male,15.0,Kalobeyei Secondary,4.0,97.0,No,Financial Issues
+803,ST0804,Male,18.0,Kalobeyei Secondary,6.0,60.0,No,Lack of Interest
+804,ST0805,Female,6.0,Unity School,2.0,62.0,No,Lack of Interest
+805,ST0806,Female,15.0,Kalobeyei Secondary,6.0,99.0,No,Lack of Interest
+806,ST0807,Female,10.0,Hope Academy,,,No,Early Marriage
+807,ST0808,Male,,Kakuma Primary,,80.0,No,Family Responsibility
+808,ST0809,Female,19.0,Kakuma Primary,11.0,77.0,No,Health Issues
+809,ST0810,Male,15.0,Kakuma Primary,2.0,93.0,No,Health Issues
+810,ST0811,Male,19.0,Kakuma Primary,9.0,55.0,Yes,Health Issues
+811,ST0812,Male,7.0,Unity School,5.0,90.0,No,Early Marriage
+812,ST0813,,17.0,Kakuma Primary,8.0,65.0,No,Relocation
+813,ST0814,Female,11.0,Kakuma Primary,2.0,53.0,,Financial Issues
+814,ST0815,Female,16.0,Kakuma Primary,6.0,84.0,No,Financial Issues
+815,ST0816,Male,6.0,Kakuma Primary,3.0,97.0,No,Lack of Interest
+816,ST0817,Male,8.0,Hope Academy,10.0,75.0,,Lack of Interest
+817,ST0818,,10.0,,5.0,61.0,No,Health Issues
+818,ST0819,Female,9.0,Hope Academy,8.0,60.0,No,Health Issues
+819,ST0820,Male,8.0,,10.0,86.0,Yes,Lack of Interest
+820,ST0821,Male,,Kalobeyei Secondary,1.0,,Yes,Family Responsibility
+821,ST0822,Female,18.0,Kakuma Primary,5.0,67.0,No,Relocation
+822,ST0823,Female,10.0,Kalobeyei Secondary,3.0,68.0,No,Relocation
+823,ST0824,Male,16.0,Kalobeyei Secondary,4.0,72.0,No,Relocation
+824,ST0825,Female,13.0,Unity School,2.0,87.0,No,Relocation
+825,ST0826,Female,16.0,Kalobeyei Secondary,9.0,67.0,,Lack of Interest
+826,ST0827,Male,9.0,Hope Academy,3.0,75.0,No,Financial Issues
+827,ST0828,Female,6.0,Kalobeyei Secondary,2.0,55.0,,Lack of Interest
+828,ST0829,Male,16.0,Kalobeyei Secondary,10.0,53.0,Yes,Relocation
+829,ST0830,Female,,Kalobeyei Secondary,11.0,93.0,Yes,Lack of Interest
+830,ST0831,,13.0,Kakuma Primary,9.0,100.0,No,Relocation
+831,ST0832,Male,8.0,Kakuma Primary,7.0,78.0,,Early Marriage
+832,ST0833,Male,,Hope Academy,6.0,83.0,No,
+833,ST0834,Female,7.0,Hope Academy,1.0,,,Financial Issues
+834,ST0835,Male,12.0,Kakuma Primary,5.0,92.0,No,Early Marriage
+835,ST0836,Female,13.0,Hope Academy,11.0,92.0,Yes,Family Responsibility
+836,ST0837,Male,11.0,Kakuma Primary,11.0,65.0,No,
+837,ST0838,Male,11.0,Unity School,3.0,51.0,No,Family Responsibility
+838,ST0839,Female,10.0,,1.0,83.0,No,Lack of Interest
+839,ST0840,Male,13.0,Kalobeyei Secondary,4.0,57.0,No,Health Issues
+840,ST0841,Male,6.0,Hope Academy,2.0,62.0,No,Early Marriage
+841,ST0842,Female,15.0,Kakuma Primary,2.0,91.0,No,Health Issues
+842,ST0843,Male,9.0,Kakuma Primary,3.0,57.0,No,Relocation
+843,ST0844,Male,9.0,Hope Academy,8.0,79.0,No,Health Issues
+844,ST0845,Male,8.0,Kakuma Primary,,81.0,No,Health Issues
+845,ST0846,Male,8.0,Unity School,7.0,85.0,No,Relocation
+846,ST0847,Female,9.0,,6.0,96.0,No,Lack of Interest
+847,ST0848,Female,,Hope Academy,9.0,79.0,Yes,Relocation
+848,ST0849,Male,6.0,Hope Academy,4.0,50.0,No,Early Marriage
+849,ST0850,Female,,Kakuma Primary,1.0,92.0,,
+850,ST0851,Male,16.0,,8.0,88.0,No,Relocation
+851,ST0852,Female,18.0,Unity School,7.0,66.0,No,Health Issues
+852,ST0853,Male,16.0,Kakuma Primary,7.0,69.0,No,Early Marriage
+853,ST0854,,7.0,Kakuma Primary,3.0,73.0,No,Family Responsibility
+854,ST0855,Male,14.0,Kakuma Primary,4.0,99.0,Yes,
+855,ST0856,Male,15.0,Kakuma Primary,10.0,71.0,No,Financial Issues
+856,ST0857,Male,7.0,Unity School,9.0,78.0,Yes,Financial Issues
+857,ST0858,Male,10.0,Kakuma Primary,6.0,71.0,No,Financial Issues
+858,ST0859,,,Hope Academy,5.0,93.0,No,Health Issues
+859,ST0860,Male,14.0,Unity School,3.0,58.0,Yes,
+860,ST0861,Female,,Kalobeyei Secondary,9.0,86.0,No,
+861,ST0862,Male,6.0,Kalobeyei Secondary,5.0,59.0,No,Lack of Interest
+862,ST0863,Female,6.0,Hope Academy,5.0,85.0,No,
+863,ST0864,Female,14.0,,4.0,86.0,,Early Marriage
+864,ST0865,Female,18.0,Unity School,4.0,77.0,No,Lack of Interest
+865,ST0866,Male,,Kalobeyei Secondary,,,Yes,Family Responsibility
+866,ST0867,Male,13.0,,7.0,91.0,No,Financial Issues
+867,ST0868,Female,15.0,Kalobeyei Secondary,9.0,92.0,Yes,Early Marriage
+868,ST0869,Male,14.0,Kalobeyei Secondary,3.0,,No,Financial Issues
+869,ST0870,Female,12.0,Kalobeyei Secondary,2.0,73.0,Yes,Lack of Interest
+870,ST0871,Male,8.0,Kakuma Primary,3.0,,No,Early Marriage
+871,ST0872,Female,8.0,,1.0,89.0,No,
+872,ST0873,Female,7.0,Kakuma Primary,6.0,51.0,No,Family Responsibility
+873,ST0874,Male,10.0,Kalobeyei Secondary,11.0,57.0,No,Lack of Interest
+874,ST0875,Female,17.0,Unity School,,97.0,No,Lack of Interest
+875,ST0876,Male,17.0,Unity School,7.0,76.0,No,Family Responsibility
+876,ST0877,Female,,Kalobeyei Secondary,11.0,71.0,Yes,
+877,ST0878,Female,19.0,Kalobeyei Secondary,11.0,86.0,No,Relocation
+878,ST0879,,11.0,Unity School,,76.0,No,Lack of Interest
+879,ST0880,,7.0,Kakuma Primary,8.0,78.0,Yes,Health Issues
+880,ST0881,Male,17.0,,6.0,52.0,Yes,Lack of Interest
+881,ST0882,Female,8.0,Kalobeyei Secondary,4.0,93.0,No,Financial Issues
+882,ST0883,Male,10.0,Kakuma Primary,5.0,62.0,Yes,Early Marriage
+883,ST0884,Female,17.0,,8.0,94.0,No,Early Marriage
+884,ST0885,Female,16.0,Kakuma Primary,3.0,59.0,No,Financial Issues
+885,ST0886,Male,16.0,Kalobeyei Secondary,3.0,85.0,No,
+886,ST0887,Male,6.0,,,,No,Family Responsibility
+887,ST0888,Female,18.0,Kakuma Primary,4.0,76.0,No,Early Marriage
+888,ST0889,,6.0,,1.0,83.0,No,Early Marriage
+889,ST0890,Male,15.0,Unity School,9.0,,No,Financial Issues
+890,ST0891,Male,14.0,Unity School,8.0,50.0,No,Relocation
+891,ST0892,Male,12.0,Hope Academy,8.0,81.0,No,Early Marriage
+892,ST0893,Male,6.0,Hope Academy,10.0,74.0,,Health Issues
+893,ST0894,Male,17.0,Unity School,6.0,78.0,No,Early Marriage
+894,ST0895,,19.0,Hope Academy,7.0,56.0,No,Relocation
+895,ST0896,Female,13.0,Kalobeyei Secondary,6.0,98.0,No,Financial Issues
+896,ST0897,Female,8.0,Kalobeyei Secondary,9.0,52.0,No,Relocation
+897,ST0898,Female,13.0,Kalobeyei Secondary,3.0,69.0,No,Financial Issues
+898,ST0899,Male,10.0,Unity School,3.0,,Yes,
+899,ST0900,Male,6.0,Hope Academy,3.0,79.0,No,Financial Issues
+900,ST0901,Male,12.0,Hope Academy,10.0,84.0,No,Family Responsibility
+901,ST0902,Female,10.0,Kakuma Primary,3.0,84.0,Yes,Family Responsibility
+902,ST0903,Female,11.0,,9.0,98.0,Yes,Financial Issues
+903,ST0904,Male,11.0,Hope Academy,4.0,88.0,Yes,Health Issues
+904,ST0905,Male,13.0,Hope Academy,7.0,76.0,No,Lack of Interest
+905,ST0906,Female,14.0,Hope Academy,9.0,75.0,No,Financial Issues
+906,ST0907,,,Unity School,11.0,63.0,No,Early Marriage
+907,ST0908,Male,14.0,Hope Academy,7.0,66.0,No,
+908,ST0909,Male,17.0,Kakuma Primary,9.0,67.0,Yes,Health Issues
+909,ST0910,Female,16.0,Unity School,3.0,,No,Early Marriage
+910,ST0911,Male,15.0,,4.0,78.0,No,Lack of Interest
+911,ST0912,Male,14.0,Kakuma Primary,8.0,69.0,No,Health Issues
+912,ST0913,Male,18.0,,6.0,76.0,,Family Responsibility
+913,ST0914,Female,15.0,Hope Academy,5.0,67.0,No,Lack of Interest
+914,ST0915,Female,,Hope Academy,4.0,53.0,No,Early Marriage
+915,ST0916,Female,12.0,Hope Academy,,50.0,Yes,Lack of Interest
+916,ST0917,Female,6.0,Unity School,1.0,99.0,Yes,Financial Issues
+917,ST0918,Female,12.0,Kakuma Primary,9.0,50.0,No,Lack of Interest
+918,ST0919,,15.0,Kakuma Primary,1.0,75.0,Yes,Family Responsibility
+919,ST0920,Female,10.0,,8.0,94.0,No,Financial Issues
+920,ST0921,Male,11.0,Hope Academy,4.0,69.0,No,Relocation
+921,ST0922,Male,15.0,Kalobeyei Secondary,,72.0,No,Early Marriage
+922,ST0923,Male,12.0,Kalobeyei Secondary,11.0,59.0,No,Early Marriage
+923,ST0924,Male,19.0,Kakuma Primary,5.0,60.0,Yes,Lack of Interest
+924,ST0925,Male,10.0,Unity School,3.0,90.0,Yes,Health Issues
+925,ST0926,Male,12.0,Unity School,9.0,90.0,,
+926,ST0927,Male,14.0,Kakuma Primary,,54.0,,Relocation
+927,ST0928,Female,8.0,Unity School,,50.0,No,Financial Issues
+928,ST0929,Female,13.0,Kalobeyei Secondary,4.0,66.0,No,Early Marriage
+929,ST0930,Male,7.0,Hope Academy,11.0,71.0,,Financial Issues
+930,ST0931,Male,16.0,Kakuma Primary,,83.0,Yes,Relocation
+931,ST0932,Female,12.0,Hope Academy,8.0,,No,Health Issues
+932,ST0933,Male,18.0,Unity School,2.0,90.0,Yes,
+933,ST0934,Male,7.0,Hope Academy,9.0,78.0,No,Family Responsibility
+934,ST0935,Female,19.0,Unity School,6.0,53.0,No,Financial Issues
+935,ST0936,Male,,Unity School,9.0,54.0,No,Family Responsibility
+936,ST0937,Female,,Kalobeyei Secondary,,60.0,No,Early Marriage
+937,ST0938,Male,8.0,Unity School,7.0,100.0,No,Lack of Interest
+938,ST0939,Female,7.0,Kalobeyei Secondary,1.0,70.0,,Lack of Interest
+939,ST0940,,16.0,Kalobeyei Secondary,3.0,84.0,No,Financial Issues
+940,ST0941,Female,15.0,,11.0,61.0,No,Health Issues
+941,ST0942,Male,12.0,Kakuma Primary,2.0,75.0,No,
+942,ST0943,Female,6.0,Kakuma Primary,5.0,100.0,No,Financial Issues
+943,ST0944,Male,19.0,Unity School,5.0,,,Financial Issues
+944,ST0945,Male,13.0,Kalobeyei Secondary,5.0,94.0,No,Family Responsibility
+945,ST0946,Male,8.0,Kakuma Primary,4.0,56.0,No,Lack of Interest
+946,ST0947,Male,17.0,Kalobeyei Secondary,,96.0,No,Financial Issues
+947,ST0948,Female,17.0,,3.0,56.0,Yes,Family Responsibility
+948,ST0949,,18.0,Hope Academy,1.0,75.0,No,Relocation
+949,ST0950,,7.0,,5.0,89.0,No,Family Responsibility
+950,ST0951,Male,8.0,Unity School,,54.0,No,Family Responsibility
+951,ST0952,Female,10.0,Kalobeyei Secondary,9.0,70.0,No,
+952,ST0953,Male,16.0,Hope Academy,4.0,63.0,,Early Marriage
+953,ST0954,Female,13.0,Kakuma Primary,3.0,53.0,Yes,Early Marriage
+954,ST0955,Male,15.0,Hope Academy,1.0,72.0,No,Health Issues
+955,ST0956,Male,12.0,Hope Academy,2.0,91.0,No,Early Marriage
+956,ST0957,Female,12.0,Hope Academy,8.0,,No,Family Responsibility
+957,ST0958,Male,17.0,Unity School,1.0,64.0,No,Health Issues
+958,ST0959,Female,,Kakuma Primary,8.0,99.0,No,Financial Issues
+959,ST0960,Male,13.0,Kalobeyei Secondary,7.0,94.0,No,Lack of Interest
+960,ST0961,Male,6.0,Kakuma Primary,8.0,78.0,No,
+961,ST0962,Male,,Kalobeyei Secondary,6.0,57.0,No,Family Responsibility
+962,ST0963,Female,18.0,Unity School,9.0,90.0,No,Health Issues
+963,ST0964,Male,11.0,Unity School,3.0,97.0,No,Financial Issues
+964,ST0965,Male,14.0,Unity School,,68.0,No,Relocation
+965,ST0966,Male,,Unity School,4.0,97.0,No,Family Responsibility
+966,ST0967,Male,7.0,Kalobeyei Secondary,6.0,88.0,Yes,Relocation
+967,ST0968,Female,6.0,,8.0,,No,Relocation
+968,ST0969,Female,18.0,Kalobeyei Secondary,5.0,77.0,Yes,Early Marriage
+969,ST0970,Male,15.0,Kakuma Primary,,95.0,No,Financial Issues
+970,ST0971,Female,17.0,Unity School,6.0,76.0,No,Relocation
+971,ST0972,Male,19.0,Unity School,4.0,,No,Financial Issues
+972,ST0973,Male,7.0,Kakuma Primary,9.0,64.0,Yes,
+973,ST0974,Male,12.0,Kalobeyei Secondary,3.0,,No,Financial Issues
+974,ST0975,Female,8.0,Hope Academy,4.0,86.0,No,
+975,ST0976,Female,15.0,Hope Academy,7.0,50.0,No,Relocation
+976,ST0977,Female,7.0,Kakuma Primary,7.0,52.0,No,Financial Issues
+977,ST0978,Female,19.0,Hope Academy,4.0,,,Lack of Interest
+978,ST0979,Female,16.0,Kalobeyei Secondary,6.0,73.0,Yes,Financial Issues
+979,ST0980,Female,12.0,Kalobeyei Secondary,,,No,Relocation
+980,ST0981,Female,18.0,,6.0,89.0,No,Early Marriage
+981,ST0982,Female,18.0,Kalobeyei Secondary,,85.0,No,Early Marriage
+982,ST0983,Female,7.0,Unity School,8.0,83.0,No,Relocation
+983,ST0984,Male,8.0,Kakuma Primary,2.0,,,Family Responsibility
+984,ST0985,Female,16.0,Kalobeyei Secondary,11.0,73.0,No,Family Responsibility
+985,ST0986,Female,12.0,Kakuma Primary,7.0,73.0,Yes,
+986,ST0987,Female,19.0,Hope Academy,9.0,91.0,No,Early Marriage
+987,ST0988,Female,9.0,Kalobeyei Secondary,1.0,53.0,No,Relocation
+988,ST0989,Female,18.0,Unity School,8.0,52.0,No,Family Responsibility
+989,ST0990,Female,19.0,Kalobeyei Secondary,7.0,83.0,No,Early Marriage
+990,ST0991,Female,6.0,Kakuma Primary,6.0,98.0,No,Family Responsibility
+991,ST0992,,18.0,Kakuma Primary,6.0,72.0,Yes,Early Marriage
+992,ST0993,Female,19.0,Kalobeyei Secondary,6.0,,No,Financial Issues
+993,ST0994,Female,10.0,Unity School,9.0,94.0,No,Lack of Interest
+994,ST0995,Female,17.0,Unity School,2.0,54.0,,
+995,ST0996,Male,14.0,Unity School,1.0,80.0,No,
+996,ST0997,Male,13.0,Kakuma Primary,6.0,90.0,No,Health Issues
+997,ST0998,Female,17.0,Kalobeyei Secondary,10.0,55.0,,Early Marriage
+998,ST0999,Female,14.0,Hope Academy,11.0,86.0,No,Lack of Interest
+999,ST1000,Male,15.0,Kakuma Primary,8.0,,,Lack of Interest
